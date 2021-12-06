@@ -17,7 +17,7 @@ Make sure that you have JRuby installed. For running the code that uses `xlsxtre
 After that, just run the code that you want to try:
 
 ```
-$ jruby use_poi_stream.rb.rb
+$ jruby use_poi_stream.rb
 $ jruby use_xlsxtream.rb
 ```
 

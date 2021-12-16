@@ -13,13 +13,13 @@ puts t1
 #     ├───auxiliary
 #     ├───lib
 #     └───ooxml-lib
-require_relative 'log4j/log4j-core-2.14.1.jar'
+require_relative 'log4j/log4j-core-2.16.0.jar'
 require_relative 'poi-bin-5.1.0/poi-5.1.0.jar'
 require_relative 'poi-bin-5.1.0/lib/commons-codec-1.15.jar'
 require_relative 'poi-bin-5.1.0/lib/commons-collections4-4.4.jar'
 require_relative 'poi-bin-5.1.0/lib/commons-io-2.11.0.jar'
 require_relative 'poi-bin-5.1.0/lib/commons-math3-3.6.1.jar'
-require_relative 'poi-bin-5.1.0/lib/log4j-api-2.14.1.jar'
+require_relative 'poi-bin-5.1.0/lib/log4j-api-2.16.0.jar'
 require_relative 'poi-bin-5.1.0/lib/SparseBitSet-1.2.jar'
 require_relative 'poi-bin-5.1.0/poi-ooxml-5.1.0.jar'
 require_relative 'poi-bin-5.1.0/poi-ooxml-full-5.1.0.jar'
